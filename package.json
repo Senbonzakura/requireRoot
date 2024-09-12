@@ -1,0 +1,26 @@
+{
+  "name": "require-root-trt",
+  "version": "1.0.0",
+  "description": "replace require.main.require with this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senbonzakura/requireRoot.git"
+  },
+  "keywords": [
+    "require",
+    "main"
+  ],
+  "author": "M.Fatih Zorlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Senbonzakura/requireRoot/issues"
+  },
+  "homepage": "https://github.com/Senbonzakura/requireRoot#readme",
+  "directories": {
+    "test": "test"
+  }
+}
