@@ -1,6 +1,6 @@
 {
   "name": "require-root-trt",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "replace require.main.require with this package",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/Senbonzakura/requireRoot.git"
   },
+  "location": "/require-root-trt",
   "keywords": [
     "require",
     "main"
+  ],
+  "_requiredBy": [
+    "/"
+  ],
+  "engines": {
+    "node": ">=14.0"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
   ],
   "author": "M.Fatih Zorlu",
   "license": "ISC",
